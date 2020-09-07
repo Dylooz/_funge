@@ -8,7 +8,7 @@ IPD: Instruction Pointer Direction
 
 #: Greedy (Removes the value from the stack)
 
-
+|------------------------------------------------------------------------------------------------|
 
 "^": []; Sets the IPD to up.
 
@@ -84,7 +84,7 @@ IPD: Instruction Pointer Direction
 
 "C": []; Empties the stack.
 
-
+|------------------------------------------------------------------------------------------------|
 
 Run Command:
 
