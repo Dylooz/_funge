@@ -1,6 +1,6 @@
 # _funge
 
-IP: Instruction Pointer
+IP: Instruction Pointer\n
 IPD: Instruction Pointer Direction
 [a, b, c...]: Action arguments, in the order they are in the stack.
 #: Greedy (Removes the value from the stack)
